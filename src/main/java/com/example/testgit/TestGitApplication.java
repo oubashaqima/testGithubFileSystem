@@ -8,6 +8,7 @@ public class TestGitApplication {
 
     public static void main(String[] args) {
         System.out.println("test github");
+        System.out.println("study base koowledge");
         SpringApplication.run(TestGitApplication.class, args);
     }
 
